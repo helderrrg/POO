@@ -47,5 +47,5 @@ As a university group project, we cannot allow external contributors.
 ## Group Members
 
 * [Afonso Dionísio Santos](https://github.com/afonso-santos/) (a104276)
-* [Pedro Figueiredo Pereira](https://github.com/pedrofp4444) (a104082)
 * [Hélder Ricardo Ribeiro Gomes](https://github.com/helderrrg) (a104100)
+* [Pedro Figueiredo Pereira](https://github.com/pedrofp4444) (a104082)
